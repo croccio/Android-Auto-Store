@@ -1,4 +1,4 @@
-[DOWNLOAD](https://github.com/croccio/Android-Auto-Store/releases/download/1.1/aastore.apk)
+# [DOWNLOAD](https://github.com/croccio/Android-Auto-Store/releases/download/1.1/aastore.apk)
 
 # AAStore
 # Android Auto Store FREE - NO PAYMENT - UNLIMITED DOWNLOAD
