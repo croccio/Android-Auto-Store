@@ -49,7 +49,11 @@ Android 12 could break the apps. Uninstall and reinstall them after update.
 
 ### [DOWNLOAD](https://github.com/croccio/Android-Auto-Store/releases/download/1.1/aastore.apk)
 
-###ENGLISH VERSION BELOW
+
+# FAQ
+
+
+### ENGLISH VERSION BELOW
 
 LEGGI ATTENTAMENTE. SE IL TUO PROBLEMA RIENTRA IN UNA DI QUESTA CASISTICHE NON RICEVERAI RISPOSTA DALL'EMAIL DI SUPPORTO.
 
