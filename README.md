@@ -39,8 +39,6 @@ Android Auto Store will alert you if new apps is realeased or updated.
 
 ### [Click here to donate and to increment the compatibility of the app with older Android Version](https://www.paypal.com/donate?hosted_button_id=7WYF2N5AN8YYL).
 
-Test always the app before donation, because the donation is not refundable.
-
 When you update Android version of your smartphone, uninstall and resintall the app if you cannot use it on Android Auto .
 
 Android 12 could break the apps. Uninstall and reinstall them after update.
