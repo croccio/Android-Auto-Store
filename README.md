@@ -35,17 +35,19 @@ Android Auto Store can be easily installed on any Android phone without the pain
 
 Android Auto Store will alert you if new apps is realeased or updated. 
 
-### No root needed.
-
-You don't need ROOT
-
 ### [Click here to donate and to increment the comatibility list of devices](https://www.paypal.com/donate?hosted_button_id=BMUJETEP7TYWE).
 
 ### [Click here to donate and to increment the compatibility of the app with older Android Version](https://www.paypal.com/donate?hosted_button_id=7WYF2N5AN8YYL).
 
+Test always the app before donation, because the donation is not refundable.
+
 When you update Android version of your smartphone, uninstall and resintall the app if you cannot use it on Android Auto .
 
 Android 12 could break the apps. Uninstall and reinstall them after update.
+
+### No root needed.
+
+You don't need ROOT
 
 ### [DOWNLOAD](https://github.com/croccio/Android-Auto-Store/releases/download/1.1/aastore.apk)
 
