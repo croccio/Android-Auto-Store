@@ -1,3 +1,5 @@
+[DOWNLOAD](https://github.com/croccio/Android-Auto-Store/releases/download/1.1/aastore.apk)
+
 # AAStore
 # Android Auto Store FREE - NO PAYMENT - UNLIMITED DOWNLOAD
 # AAAD free best alternative
@@ -15,12 +17,13 @@ Android Auto Store is **free app** for Android Phones to downloads **best Androi
 This Store will install Android Auto Apps on **non-rooted Android devices** for free with **NO DOWNLOAD LIMITS NO PAY**.
 Select an app you want to install on your phone and wait the installation process finish. Once completed, connect your smartphone to the car and use the app.
 
-### Updates
-
-If you want to stay updated with development, you can check out the [Telegram Channel](https://t.me/androidautoapp).
 
 ### UNLIMTED DOWNLOAD / NO FEE / NO PAY
 Android Auto Store is completely FREE and offer you unlimited download. If you want support me you can [Click here to donate](https://www.paypal.com/donate?hosted_button_id=CMA34ZHWW4DHY)
+
+### Updates
+
+If you want to stay updated with development, you can check out the [Telegram Channel](https://t.me/androidautoapp).
 
 ### No need for a PC. 
 
