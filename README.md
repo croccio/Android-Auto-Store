@@ -2,7 +2,7 @@
 # Android Auto Store FREE - NO PAYMENT - UNLIMITED DOWNLOAD
 # AAAD free best alternative
 
-Android Auto Store the original store for Android Auto (AAAD) and **FREE NO-PAYMENT UNLIMITED-DOWNLOAD**
+Android Auto Store the original store for Android Auto and **FREE NO-PAYMENT UNLIMITED-DOWNLOAD**
 All Android Auto Apps Available for you without pain of having to install them from computer.
 
 ### DOWNLOAD LINK: 
