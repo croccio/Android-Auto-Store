@@ -39,9 +39,11 @@ Android Auto Store will alert you if new apps is realeased or updated.
 
 You don't need ROOT
 
-**Oppo/Realme devices are not compatible** - I'm working on this. Donate to support my work and speedup it [Click here to donate](https://www.paypal.com/donate?hosted_button_id=BMUJETEP7TYWE).
+Some devices are not compatible - I'm working on this. Donate to support my work and speedup it 
+### [Click here to donate](https://www.paypal.com/donate?hosted_button_id=BMUJETEP7TYWE).
 
-**Android 7.x/8.x devices are not compatible** - I'm working on this. Donate to support my work and speed up it [Click here to donate](https://www.paypal.com/donate?hosted_button_id=7WYF2N5AN8YYL).
+Android 7.x and some Android 8.x devices are not compatible - I'm working on this. Donate to support my work and speed up it 
+### [Click here to donate](https://www.paypal.com/donate?hosted_button_id=7WYF2N5AN8YYL).
 
 When you update Android version of your smartphone, uninstall and resintall the app if you cannot use it on Android Auto .
 
