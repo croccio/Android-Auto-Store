@@ -7,6 +7,7 @@ All Android Auto Apps Available for you without pain of having to install them f
 
 ### DOWNLOAD LINK: 
 [Click here to download](https://github.com/croccio/Android-Auto-Store/releases/download/1.1/aastore.apk)
+
 [Clicca qui per scaricare](https://github.com/croccio/Android-Auto-Store/releases/download/1.1/aastore.apk)
 
 Android Auto Store is **free app** for Android Phones to downloads **best Android Auto apps** and installs them in the correct way to have them in Android Auto. 
