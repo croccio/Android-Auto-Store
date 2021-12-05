@@ -64,6 +64,7 @@ D: Non escono più le app in macchina
 R: Installa una vesione precedente di Android Auto / Pulisci la cache dei Play Services / Attendi l'aggiornamento delle app.
 
 D: Non escono le app in macchina
+
 R: Con alcuni telefoni le app non sono compatibili. [Clicca qui per supportare lo sviluppo in modo tale che possa aggiungere la comaptibilità con i device non compatibili](https://www.paypal.com/donate?hosted_button_id=BMUJETEP7TYWE) o [qui per supportare lo studio per la compatibilità con versioni più vecchie di Android](https://www.paypal.com/donate?hosted_button_id=7WYF2N5AN8YYL).
 
 D: Non mi carica la lista IPTV
