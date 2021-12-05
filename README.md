@@ -112,4 +112,4 @@ A: No because it is illegal to see sky pirates without a subscription.
 
 # SUPPORT
 
-To get support click on the Support Button in each app. If the problem is listed above you will not receive response else you receive response From Monday to Friday in 96 working hours.
+To get support click on the Support Button in each app. If the problem is listed above you will not receive response else you receive response From Monday to Friday in 96 working hours. YOU WILL NOT RECEIVE ANY RESPONSE IF YOU CHANGE SUBJECT OF THE EMAIL OR SEND EMAIL TO OTHER EMAILS ADDRESSES.
