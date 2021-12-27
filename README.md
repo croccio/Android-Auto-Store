@@ -65,7 +65,7 @@ R: Installa una vesione precedente di Android Auto / Pulisci la cache dei Play S
 
 D: Non escono le app in macchina
 
-R: Con alcuni telefoni le app non sono compatibili. [Clicca qui per supportare lo sviluppo in modo tale che possa aggiungere la comaptibilità con i device non compatibili](https://www.paypal.com/donate?hosted_button_id=BMUJETEP7TYWE) o [qui per supportare lo studio per la compatibilità con versioni più vecchie di Android](https://www.paypal.com/donate?hosted_button_id=7WYF2N5AN8YYL).
+R: Con alcuni telefoni le app non sono compatibili (es: oppo, realme). [Clicca qui per supportare lo sviluppo in modo tale che possa aggiungere la comaptibilità con i device non compatibili](https://www.paypal.com/donate?hosted_button_id=BMUJETEP7TYWE) o [qui per supportare lo studio per la compatibilità con versioni più vecchie di Android](https://www.paypal.com/donate?hosted_button_id=7WYF2N5AN8YYL).
 
 D: Non mi carica la lista IPTV
 
@@ -92,7 +92,7 @@ A: Install older version of Android Auto / Clear cache of Play Services / Wait f
 
 Q: The apps don't come out in the car
 
-A: With some smartphone the apps are not compatible. [Click here to support the study to get the app on unsuported devices](https://www.paypal.com/donate?hosted_button_id=BMUJETEP7TYWE) or [click here to support the study to get the app on oloder android version](https://www.paypal.com/donate?hosted_button_id=7WYF2N5AN8YYL).
+A: With some smartphone the apps are not compatible (eg: oppo, realme). [Click here to support the study to get the app on unsuported devices](https://www.paypal.com/donate?hosted_button_id=BMUJETEP7TYWE) or [click here to support the study to get the app on oloder android version](https://www.paypal.com/donate?hosted_button_id=7WYF2N5AN8YYL).
 
 Q: Can you send me the iptv list?
 
