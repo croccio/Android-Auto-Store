@@ -1,4 +1,4 @@
-# [DOWNLOAD v.2.0](https://github.com/croccio/Android-Auto-Store/releases/download/2.0/aastore.2.0.apk)
+# [DOWNLOAD v.2.1](https://github.com/croccio/Android-Auto-Store/releases/download/2.1/aastore.2.1.apk)
 # [DOWNLOAD v.1.1](https://github.com/croccio/Android-Auto-Store/releases/download/1.1/aastore.apk)
 
 # AAStore
