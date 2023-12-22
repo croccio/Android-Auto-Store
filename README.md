@@ -42,7 +42,7 @@ Android Auto Store will alert you if new apps is realeased or updated.
 
 When you update Android version of your smartphone, uninstall and resintall the app if you cannot use it on Android Auto .
 
-Android 12 break the apps.
+Android 13/14 break the apps.
 
 ### No root needed.
 
