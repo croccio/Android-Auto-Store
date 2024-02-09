@@ -8,8 +8,6 @@
 Android Auto Store the original store for Android Auto and **FREE NO-PAYMENT UNLIMITED-DOWNLOAD**
 All Android Auto Apps Available for you without pain of having to install them from computer.
 
-/!\Android 13/14 break the apps./!\
-
 ### DOWNLOAD LINK: 
 [Click here to download](https://github.com/croccio/Android-Auto-Store/releases/download/1.1/aastore.apk)
 
@@ -44,7 +42,7 @@ Android Auto Store will alert you if new apps is realeased or updated.
 
 When you update Android version of your smartphone, uninstall and resintall the app if you cannot use it on Android Auto .
 
-Android 13/14 break the apps.
+### Android 13/14 break the apps.
 
 ### No root needed.
 
