@@ -18,6 +18,7 @@ Android Auto Store is **free app** for Android Phones to downloads **best Androi
 This Store will install Android Auto Apps on **non-rooted Android devices** for free with **NO DOWNLOAD LIMITS NO PAY**.
 Select an app you want to install on your phone and wait the installation process finish. Once completed, connect your smartphone to the car and use the app.
 
+#### Android 13/14 break the apps.
 
 ### UNLIMTED DOWNLOAD / NO FEE / NO PAY
 Android Auto Store is completely FREE and offer you unlimited download. If you want support me you can [Click here to donate](https://www.paypal.com/donate?hosted_button_id=CMA34ZHWW4DHY)
@@ -41,8 +42,6 @@ Android Auto Store will alert you if new apps is realeased or updated.
 ### [Click here to donate and to increment the compatibility of the app with older Android Version](https://www.paypal.com/donate?hosted_button_id=7WYF2N5AN8YYL).
 
 When you update Android version of your smartphone, uninstall and resintall the app if you cannot use it on Android Auto .
-
-### Android 13/14 break the apps.
 
 ### No root needed.
 
