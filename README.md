@@ -8,6 +8,8 @@
 Android Auto Store the original store for Android Auto and **FREE NO-PAYMENT UNLIMITED-DOWNLOAD**
 All Android Auto Apps Available for you without pain of having to install them from computer.
 
+/!\Android 13/14 break the apps./!\
+
 ### DOWNLOAD LINK: 
 [Click here to download](https://github.com/croccio/Android-Auto-Store/releases/download/1.1/aastore.apk)
 
