@@ -1,3 +1,4 @@
+# DEPRECATED you can try if this works
 # [DOWNLOAD v.2.1 - Pre Release](https://github.com/croccio/Android-Auto-Store/releases/download/2.1/aastore.2.1.apk)
 # [DOWNLOAD v.1.1 - Stable](https://github.com/croccio/Android-Auto-Store/releases/download/1.1/aastore.apk)
 
